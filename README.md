@@ -5,6 +5,6 @@
 - 🤝 I’m looking to collaborate on solving complex backend problems.
 - 💬 Ask me about anything
 - 📞 How to reach me: +60182301097
-- 🌐 http://mirimad.com
+- 🌐 https://mirimad.com
 - :email: mirimadahmed@outlook.com
 - 🔥 Fun fact: I hold a Guinness world record for attending world's largest hackathon in KSA
