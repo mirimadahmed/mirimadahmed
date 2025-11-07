@@ -4,7 +4,7 @@
 💡 Previously led AI agent infrastructure at **Respond.io**, handling over **13 million daily messages** across multi-channel platforms.
 
 ### 🧠 What I’m Working On
-- Building **scalable AI-driven backends** using Node.js, Golang, TypeScript, AWS, and event-driven architectures.  
+- Building **scalable AI-driven backends** using Ruby on Rails, Node.js, Golang, TypeScript, AWS, and event-driven architectures.  
 - Exploring **LLM orchestration**, **RAG systems**, and **real-time messaging pipelines**.  
 - Constantly optimizing systems for performance, reliability, and developer experience.
 
