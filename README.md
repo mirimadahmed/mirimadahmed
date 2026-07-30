@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Mir Imad Ahmed
 
-🚀 **Product Engineer at [Intercom](https://www.intercom.com)** — building large-scale conversational AI systems that power chat, email, and voice automation for 30,000+ global businesses.  
-💡 Previously led AI agent infrastructure at **Respond.io**, handling over **13 million daily messages** across multi-channel platforms.
+🚀 **MTS at [Microsoft AI](https://www.microsoft.ai)** — building AI models for the future of humanity. Adding voice and agentic capabilities for different use cases across Microsoft.
+💡 Previously led AI agent infrastructure at **Intercom** and **Respond.io**, handling over **13 million daily messages** across multi-channel platforms.
 
 ### 🧠 What I’m Working On
 - Building **scalable AI-driven backends** using Ruby on Rails, Node.js, Golang, TypeScript, AWS, and event-driven architectures.  
